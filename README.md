@@ -22,7 +22,7 @@ Each list enables a click to a detail screen, showing the details of :
 Contact form enables to enter an email and a message, with a button to send the message (an alert or a modal will be displayed with the content entered).
 
 ## Screenshots
-![Home](sreenshots/Capture d’écran 2022-01-31 103950.png)
+![Home](sreenshots/img_8.png)
 ![Products](sreenshots/img.png)
 ![Product dialog](sreenshots/img_1.png)
 ![Users](sreenshots/img_2.png)
