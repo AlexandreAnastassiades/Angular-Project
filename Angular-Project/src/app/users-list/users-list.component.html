@@ -1,0 +1,11 @@
+<div class="grid lg:grid-cols-3 gap-5 px-16 py-6 ">
+  <div *ngFor='let user of list | async'>
+    <div class="max-w-sm rounded overflow-hidden shadow-lg rounded-lg bg-gray-200 pl-2 pt-0.5" (click)="user.show = !user.show">
+      <img class="h-64 rounded-full flex items-center justify-center bg-gray-600" src={{user.image}}>
+      <div class="px-6 py-4 bg-neutral-500">
+        <div class="font-bold text-xl mb-2 bg-neutral-500"> {{user.firstname}} {{user.lastname}} </div>
+        <div [hidden] = user.show class="font-bold text-l mb-2 bg-neutral-500"> {{user.email}}</div>
+      </div>
+    </div>
+  </div>
+</div>

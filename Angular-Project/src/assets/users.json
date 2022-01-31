@@ -1,0 +1,31 @@
+[
+  {
+    "firstname": "Jeff",
+    "lastname": "Bezos",
+    "email": "jeff.bezos@rich.com",
+    "image": "https://gravatar.com/avatar/5d61fa9afa50a271e253d631b79dc21e?s=400&d=robohash&r=x",
+    "show": true
+  },
+  {
+    "firstname": "Elon",
+    "lastname": "Musk",
+    "email": "elon.musk@rich.com",
+    "image": "https://gravatar.com/avatar/d2727d0ded29bab4086d541c358e0cd8?s=400&d=robohash&r=x",
+    "show": true
+  },
+  {
+    "firstname": "Bill",
+    "lastname": "Gates",
+    "email": "bill.gates@rich.com",
+    "image": "https://gravatar.com/avatar/0639cb93e2e1ec98e25cbd7c97457741?s=400&d=robohash&r=x",
+    "show": true
+  },
+  {
+    "firstname": "Marck",
+    "lastname": "Zuckerberg",
+    "email": "mark.zuckerberg@rich.com",
+    "image": "https://gravatar.com/avatar/70f32e009462d5164303878a71c13cff?s=400&d=robohash&r=x",
+    "show": true
+  }
+]
+
