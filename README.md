@@ -1,8 +1,6 @@
-# Discover angular
+# Angular Project
 
 This school project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
-
-> Made by [Alexandre Anastassiades](https://github.com/AlexandreAnastassiades).
 
 ## Subject
 
@@ -32,10 +30,6 @@ Contact form enables to enter an email and a message, with a button to send the 
 ![Contact form](sreenshots/img_6.png)
 ![Contact form dialog](sreenshots/img_7.png)
 
-
-## Modalities
-
-Project has to be done individually or by pair.
 
 ## Technical stack
 
